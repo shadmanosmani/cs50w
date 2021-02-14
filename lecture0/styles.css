@@ -1,0 +1,11 @@
+h1 {
+    color: black; 
+    text-align: center;
+}
+#foo, #bar {
+    color: blue;
+}
+.baz {
+    color: red; 
+    text-align: center;
+}

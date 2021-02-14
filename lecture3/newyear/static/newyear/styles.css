@@ -1,0 +1,24 @@
+h1 {
+    font-family: 'Sofia Pro', sans-serif;
+    font-size: 90px;
+    text-align: center;
+    margin:0;
+    padding:0;
+    vertical-align:middle;
+    display:table-cell;
+}
+
+html, body {
+
+    height:100%;
+    margin:0;
+    padding:0;
+
+}
+
+#section1 {
+    width:100%;
+    min-height:90%;
+    text-align:center;
+    display:table;
+}
